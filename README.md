@@ -1,5 +1,5 @@
 # test
-kevin is a horrible developer
+kevin is an awesome developer
 I'm not sure if he will be involved with my first project
 
 
