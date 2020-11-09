@@ -3,4 +3,3 @@ kevin is a horrible developer
 I'm not sure if he will be involved with my first project
 
 
-//what kind of lights did you buy?
